@@ -85,11 +85,11 @@ This assignment involves setting up the development environment, working with Li
   - `market_data.csv`
   - `news_data.csv`
 
-- **NEWS_DATA.CSV**
+- **MARKET_DATA.CSV**
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/5efd028b-a3b5-4634-91e0-a574d618277e" />
 
 
-- **MARKET_DATA.CSV**
+- **NEWS_DATA.CSV**
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/3bcf0465-516d-4b2c-a946-c42793250751" />
 
  
