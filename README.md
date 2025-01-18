@@ -84,3 +84,10 @@ This assignment involves setting up the development environment, working with Li
 - **Processed Data**:
   - `market_data.csv`
   - `news_data.csv`
+ 
+  MARKET_DATA.CSV
+ 
+
+NEWS_DATA.CSV
+![image](https://github.com/user-attachments/assets/6d37043e-8bbe-4452-9bd5-6a2f12bf2402)
+
